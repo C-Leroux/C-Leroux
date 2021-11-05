@@ -27,7 +27,7 @@ Github : https://github.com/Windory/Cylinder
 A battle opposes the Resistance to the malevolent organization Aphelion, and an entire solar system is at stake.
 This is a tower defense/roguelite game, with a randomly-generated solar system, in which you can build your own set of towers to defend planets from the enemies.
 
-Github : https://github.com/C-Leroux/ProjetStar
+Github : https://github.com/C-Leroux/ProjetStar/tree/main/STAR
 
 ## Flying Knight
 ![Flying Knight](/images/flyingknight.png)
